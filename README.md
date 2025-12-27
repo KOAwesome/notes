@@ -1,18 +1,51 @@
-# Quartz v4
+# My Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repository contains my personal knowledge base and notes, published as a static website.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+The notes are written in Markdown and focus on:
+- Motivation & personal reflections
+- Learning notes (Data Engineering, PySpark, Systems)
+- Career thinking & long-term goals
+- Engineering concepts and mental models
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This site is intentionally public and curated.  
+It represents **how I think**, not just what I build.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+## 🌐 Live Site
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Notes are published here:
+
+👉 https://koawesome.github.io/notes/
+
+(Linked from my main portfolio)
+
+---
+
+## 🧠 How This Works
+
+- Notes are written locally using **Obsidian**
+- Content is stored as Markdown (`.md`) files
+- **Quartz** is used to generate a static site
+- The site is hosted on **GitHub Pages**
+
+There is **no backend** and **no server-side code**.
+
+---
+
+## ✍️ Writing Notes
+
+All notes live inside the `content/` directory.
+
+Example structure:
+
+```text
+content/
+├── index.md
+├── motivation.md
+├── career.md
+├── learning/
+│   ├── data-engineering.md
+│   ├── pyspark.md
+│   └── systems-thinking.md
