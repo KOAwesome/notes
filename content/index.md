@@ -1,5 +1,6 @@
 ---
 title: Notes
+about me: about me.md
 ---
 
 ## Welcome
