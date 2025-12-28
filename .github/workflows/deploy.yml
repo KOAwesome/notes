@@ -3,7 +3,7 @@ name: Build and Deploy Quartz
 on:
   push:
     branches:
-      - main
+      - v4
 
 permissions:
   contents: read
