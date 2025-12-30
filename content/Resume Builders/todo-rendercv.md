@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/josesilesdata_i-used-to-spend-a-lot-of-time-adjusting-my-activity-7410960201626996736-uLab?utm_source=share&utm_medium=member_desktop&rcm=ACoAADme3p8BWs6StE8O0ClexFkQYfpKLRmS56g
