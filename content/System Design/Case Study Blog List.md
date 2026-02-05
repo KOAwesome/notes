@@ -1,3 +1,8 @@
+
+
+
+
+
 These 20 blogs deliver what you actually need:  
 → How Netflix handles schema evolution without downtime  
 → Why Uber rewrote their entire streaming infrastructure  
