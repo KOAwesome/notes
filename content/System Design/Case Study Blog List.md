@@ -1,5 +1,21 @@
-
-
+https://leetcode.com/discuss/post/7410179/lessons-from-analyzing-a-real-world-etl-ai688/
+1. 8 optimisation techniques for DE beginners  
+[**https://lnkd.in/geskgY8Z**](https://lnkd.in/geskgY8Z)  
+  
+2. Optimization techniques every DE should know  
+[**https://lnkd.in/gfDuHT5t**](https://lnkd.in/gfDuHT5t)  
+  
+3. Spark performance tuning and optimization techniques  
+[**https://lnkd.in/g9HTQxHn**](https://lnkd.in/g9HTQxHn)  
+  
+4. Addressing common spark performance problems  
+[**https://lnkd.in/gECJy9cs**](https://lnkd.in/gECJy9cs)  
+  
+5. How to optimize your spark pipelines  
+[**https://lnkd.in/g6zaZRMJ**](https://lnkd.in/g6zaZRMJ)  
+  
+6. Performance optimization techniques in spark  
+[**https://lnkd.in/gimv4-NJ**](https://lnkd.in/gimv4-NJ)
 
 
 
