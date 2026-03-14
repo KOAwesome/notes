@@ -1,0 +1,1 @@
+Riding momentum is easier than restarting tomorrow.
