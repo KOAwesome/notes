@@ -28,4 +28,4 @@ Now you have the list, but what if you get stuck in preparing projects or you do
 - 2000+ questions and solutions on sql, python, pyspark, cloud  
 - 20+ data engg projects  
   
-𝗚𝗲𝘁 𝘁𝗵𝗲 𝗚𝘂𝗶𝗱𝗲 𝗵𝗲𝗿𝗲 - [**https://lnkd.in/gJWSVKNM**](https://lnkd.in/gJWSVKNM)
+𝗚𝗲𝘁 𝘁𝗵𝗲 𝗚𝘂𝗶𝗱𝗲 𝗵𝗲𝗿𝗲 - [**https://linktr.ee/shubham_wadekar1**](https://linktr.ee/shubham_wadekar1)
