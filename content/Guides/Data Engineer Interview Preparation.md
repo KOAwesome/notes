@@ -134,11 +134,11 @@ mkssps42
 
 [15 Jan 2025 10:41](https://app.todoist.com/app/task/think-about-how-to-do-leet-code-daybyday-6Wj23ppWpcXh73M4#comment-6X5vXX9RGrjcWGVC)
 
-1️⃣ Master schema design (Star, Snowflake), normalization, and denormalization for large-scale data.
+1. Master schema design (Star, Snowflake), normalization, and denormalization for large-scale data.
 
-2️⃣Master sharding, partitioning, indexing, and database selection for scalability.
+2. Master sharding, partitioning, indexing, and database selection for scalability.
 
-3️⃣Master ETL pipelines (batch/real-time) and distributed systems (Hadoop, Spark) for efficient data processing.
+3. Master ETL pipelines (batch/real-time) and distributed systems (Hadoop, Spark) for efficient data processing.
 
 ![mkssps42](https://dcff1xvirvpfp.cloudfront.net/df3eae268f074577b87383da5f27419d_small.jpg)
 

@@ -1,6 +1,6 @@
 
 how does whl file work in glue?
-### **1️⃣ One FAILURE story (MOST IMPORTANT)**
+### **1. One FAILURE story (MOST IMPORTANT)**
 
   
 
@@ -33,7 +33,7 @@ If you want, you can send **just the story**, not screenshots.
 
 ---
 
-### **2️⃣ Glue + Spark runtime details (only bullets)**
+### **2. Glue + Spark runtime details (only bullets)**
 
   
 
@@ -60,7 +60,7 @@ You can reply in **5 bullets**. That’s it.
 
 ---
 
-### **3️⃣ CI/CD or orchestration (if ANY involvement)**
+### **3. CI/CD or orchestration (if ANY involvement)**
 
   
 
@@ -103,7 +103,7 @@ At this point, more info = noise.
 
   
 
-### **1️⃣ ONE failure / incident story (MOST valuable)**
+### **1. ONE failure / incident story (MOST valuable)**
 
   
 
@@ -133,7 +133,7 @@ Doesn’t need code. Even a paragraph is enough.
 
 ---
 
-### **2️⃣ ONE Spark performance decision you made**
+### **2. ONE Spark performance decision you made**
 
   
 
@@ -161,7 +161,7 @@ Even if it was small.
 
 ---
 
-### **3️⃣ ONE thing you were NOT allowed to change (constraints)**
+### **3. ONE thing you were NOT allowed to change (constraints)**
 
   
 
@@ -230,11 +230,11 @@ But if you send **just ONE of the three above**, I can tailor this to:
 
   
 
-1️⃣ Incident story
+1. Incident story
 
-2️⃣ Spark performance decision
+2. Spark performance decision
 
-3️⃣ Constraint you worked under
+3. Constraint you worked under
 
 or
 
