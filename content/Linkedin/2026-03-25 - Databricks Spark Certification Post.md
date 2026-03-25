@@ -29,18 +29,3 @@ Looking forward to applying these learnings in production and continuing to grow
 
 #DataEngineering #ApacheSpark #Databricks #PySpark #BigData #DeltaLake #StructuredStreaming #Learning #CareerGrowth
 
----
-
-## Short Version (High Engagement)
-
-Completed: Databricks Certified Associate Developer for Apache Spark.
-
-Key areas I strengthened:
-- Spark internals and distributed processing
-- PySpark transformations and optimization
-- Structured Streaming (output modes, watermarks)
-- Window functions and production-style data pipeline thinking
-
-Sharing my learning resources from personal notes in the comments.
-
-#DataEngineering #ApacheSpark #Databricks #PySpark
