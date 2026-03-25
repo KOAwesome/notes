@@ -3,77 +3,49 @@ title: Notes
 about me: ME/about me.md
 ---
 
-## Welcome
+## Working Notebook
 
-This is my personal knowledge base.
+This is a personal system for learning, building, and thinking in public.
 
-I write notes to think clearly, slow down, and avoid repeating the same mistakes.
-Most of these notes are reflections on learning, engineering, motivation, and long-term thinking.
+Most notes are written while solving a real problem: interview prep, project decisions, system trade-offs, or technical fundamentals.
 
-This is not a blog.
-This is not polished content.
-This is a **working system**.
+It is intentionally iterative. Notes are refined over time as my understanding gets sharper.
 
----
+## Start Here
 
-## What You’ll Find Here
+- [[ME/about me|About Me]]
+- [[Guides/Data Engineer Interview Preparation|Data Engineer Interview Preparation]]
+- [[Projects Description/resume points|Project Notes for Resume Stories]]
 
-### 🧠 Motivation & Reflection
-Thoughts on discipline, focus, consistency, and dealing with uncertainty.
+## Core Knowledge Tracks
 
-### 🛠 Learning Notes
-Concepts and notes related to:
-- Data Engineering
-- PySpark
-- Cloud & Azure
-- Systems thinking
-- Software fundamentals
+### Data Engineering
+- [[Data Engineering/Core]]
+- [[Data Engineering/Thinking]]
+- [[SQL/Data quality checks]]
+- [[Spark/structured streaming]]
 
-### 🎯 Career Thinking
-Notes about growth, trade-offs, expectations, and how I think about building a long-term career.
+### Systems and Problem Solving
+- [[System Design/Interview Question Bank]]
+- [[System Design/Distributed Systems Quick Notes]]
+- [[DSA/DSA PATTERNS]]
+- [[90_day_1hour_challenge/Sliding window]]
 
----
+### Career and Execution
+- [[Projects Description/todo]]
+- [[Resume Builders/todo-rendercv]]
+- [[Linkedin/applying]]
+- [[Todo/coding]]
 
-## How I Use These Notes
+## How to Read This Site
 
-- I write in Markdown using Obsidian
-- Notes evolve over time
-- Some ideas are incomplete by design
-- Internal links connect related thoughts
+- Use Search for specific topics.
+- Use backlinks to trace connected ideas.
+- Use folders as knowledge lanes, not fixed categories.
 
-This system helps me:
-- Think better
-- Learn faster
-- Stay honest with myself
+## Why Public
 
----
+Publishing creates accountability and clearer writing.
 
-## Public vs Private
-
-Only curated notes are published here.
-
-Personal, emotional, or unfinished thoughts remain private.
-What you see here is intentionally selected.
-
----
-
-## Navigation
-
-Use search or browse notes by topic.
-You can also explore backlinks to see how ideas connect.
-
----
-
-## Why This Is Public
-
-Writing publicly forces clarity.
-
-If something here is useful to others, that’s a bonus.
-If not, it still serves its primary purpose — helping me think.
-
----
-
-## Links
-
-- Portfolio: https://<your-username>.github.io
-- Notes Repository: https://github.com/<your-username>/notes
+If a note helps someone else, that is a bonus.
+The primary goal is to document how I learn and make decisions.

@@ -21,11 +21,48 @@ Youtube - [**Darshil Parmar**](https://www.linkedin.com/in/darshil-parmar/), [**
 Problems solving - [**DataVidhya**](https://www.linkedin.com/company/datavidhya/)  
   
 Now you have the list, but what if you get stuck in preparing projects or you dont understand what exact questions to prepare.  
+
+
+You can become a Data Engineer for FREE.  
   
-𝗧𝗵𝗮𝘁’𝘀 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 𝘄𝗵𝘆 𝗜 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗮 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗚𝘂𝗶𝗱𝗲 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀.  
+Here you have 5 project ideas (with resources):  
   
-- It includes everything you need to crack interviews  
-- 2000+ questions and solutions on sql, python, pyspark, cloud  
-- 20+ data engg projects  
+𝟭. 𝗧𝗵𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗕𝗮𝘁𝗰𝗵 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲  
   
-𝗚𝗲𝘁 𝘁𝗵𝗲 𝗚𝘂𝗶𝗱𝗲 𝗵𝗲𝗿𝗲 - [**https://linktr.ee/shubham_wadekar1**](https://linktr.ee/shubham_wadekar1)
+- Get Data from an API  
+- Transform and load it into a database  
+- Schedule the process like in the real world  
+🔗PostgreSQL: [**https://lnkd.in/e2V9TR_H**](https://lnkd.in/e2V9TR_H)  
+🔗Openweathermap API: [**https://lnkd.in/eE6HgCXs**](https://lnkd.in/eE6HgCXs)  
+  
+𝟮. 𝗧𝗵𝗲 𝗠𝗼𝗱𝗲𝗿𝗻 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲  
+- Build a local data warehouse  
+- Use data transformation tool to build tables  
+- Use a Reporting tool to build a dashboard on top  
+  
+🔗dbt: [**https://lnkd.in/eDU_H3v8**](https://lnkd.in/eDU_H3v8)  
+🔗DuckDB: [**https://lnkd.in/exQn6wuF**](https://lnkd.in/exQn6wuF)  
+🔗e-commerce dataset: [**https://lnkd.in/eNG55FKb**](https://lnkd.in/eNG55FKb)  
+  
+𝟯. 𝗧𝗵𝗲 𝗥𝗲𝗮𝗹-𝗧𝗶𝗺𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲  
+- Generate real-time events  
+- Capture them and process them  
+- Store them in a local database like PostgreSQL  
+  
+🔗Run Kafka on Docker: [**https://lnkd.in/eMKHQA9W**](https://lnkd.in/eMKHQA9W)  
+🔗Generate real-time data: [**https://lnkd.in/eEwgPEsS**](https://lnkd.in/eEwgPEsS).  
+  
+𝟰. 𝗧𝗵𝗲 𝗟𝗼𝗰𝗮𝗹 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲𝗵𝗼𝘂𝘀𝗲  
+- Process massive datasets using distributed compute  
+- Store the output as optimized Parquet files in minIO.  
+  
+🔗MinIO qucikstar: [**https://charts.min.io/**](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcharts%2Emin%2Eio%2F&urlhash=FCKu&mt=xo_PxJRouu2lTV65qU78Ar8-B52rti0bleh2zoovO_Cc0QGXwTQfJ9zKp0evHDoyt6IHFiGNqvIKRf8BAqfR-yjBtf536ZLMEwE3Z0l2I0pznSIklOpRKoCjvA&isSdui=true)  
+🔗 Massive Dataset: [**https://lnkd.in/eVGTFxNc**](https://lnkd.in/eVGTFxNc)  
+  
+𝟱. 𝗧𝗵𝗲 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗲𝗿 & 𝗡𝗼𝗦𝗤𝗟  
+- Build a Web Scrapper  
+- Extract text, image and links from website  
+- Store them as documents in a document database  
+  
+🔗Beautifulsoup: [**https://lnkd.in/eZbeAUiU**](https://lnkd.in/eZbeAUiU)  
+🔗MongoDB in Docker: [**https://lnkd.in/ez7Fzfib**](https://lnkd.in/ez7Fzfib)
