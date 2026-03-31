@@ -452,3 +452,197 @@ Say instead:
 > “I designed and extended a metadata-driven data quality framework and implemented complex Spark-based financial transformations involving temporal joins, window functions, and business-rule enforcement.”
 
 That sentence alone changes your level.
+
+
+
+## **Temporal Joins — Explanation and Usage**
+
+  
+
+### **What is a Temporal Join?**
+
+  
+
+> A temporal join matches records based on a key and a time validity window, ensuring that only data valid at a specific snapshot time is used.
+
+---
+
+## **Why I Used Temporal Joins**
+
+  
+
+### **1.** 
+
+### **Point-in-time correctness**
+
+- Ensures each snapshot uses only data valid at that time
+    
+- Avoids using the latest data for historical records
+    
+
+---
+
+### **2.** 
+
+### **Prevents data leakage**
+
+- Prevents future information from entering past snapshots
+    
+- Ensures model features reflect real-world availability
+    
+
+---
+
+### **3.** 
+
+### **Handles historical (SCD-type) data**
+
+- Source tables contain FIRSTSEEN / LASTSEEN validity windows
+    
+- Temporal joins correctly align historical versions to each snapshot
+    
+
+---
+
+### **4.** 
+
+### **Supports backtesting and auditability**
+
+- Enables recreating “what was known at that time”
+    
+- Critical for financial and regulatory use cases
+    
+
+---
+
+## **How I Implemented It**
+
+- Normalized validity windows (FIRSTSEEN, LASTSEEN) to avoid overlaps/gaps
+    
+- Joined datasets using:
+    
+    - key (e.g., ID)
+        
+    - snapshot date between FIRSTSEEN and LASTSEEN
+        
+    
+- Applied additional business constraints where required
+    
+
+---
+
+## **Why Not Use Latest Record Join?**
+
+  
+
+> Latest-record joins work for current-state reporting, but not for historical pipelines.
+
+  
+
+Problems:
+
+- Introduces **data leakage**
+    
+- Breaks historical correctness
+    
+- Gives misleading model performance
+    
+
+---
+
+## **Edge Case Handling**
+
+  
+
+### **Overlapping windows**
+
+- Normalized ranges first
+    
+- Applied deterministic selection logic if overlap remained
+    
+
+---
+
+### **Gaps in data**
+
+- Left as NULL (truthful representation)
+    
+- Avoided artificial filling unless business-approved
+    
+
+---
+
+## **Testing Strategy**
+
+- Boundary testing:
+    
+    - snapshot = FIRSTSEEN
+        
+    - snapshot = LASTSEEN
+        
+    
+- Overlap scenarios:
+    
+    - ensured deterministic selection
+        
+    
+- Leakage testing:
+    
+    - verified no future data is used
+        
+    
+
+---
+
+## **Performance Considerations**
+
+- Partitioned data by key
+    
+- Filtered by date range before join
+    
+- Used broadcast joins for small datasets
+    
+- Ensured consistent data types to avoid costly operations
+    
+
+---
+
+## **Business Value**
+
+  
+
+> Ensures that decisions are based only on data available at that time.
+
+  
+
+- Improves model reliability
+    
+- Enables auditability
+    
+- Critical for financial and risk systems
+    
+
+---
+
+## **One-Line Cheat Sheet (For Interview)**
+
+- Temporal join = key + time-valid match
+    
+- Prevents leakage
+    
+- Ensures point-in-time correctness
+    
+- Handles historical data properly
+    
+
+---
+
+## **What Was Removed**
+
+- Noise / broken text
+    
+- repeated explanations
+    
+- unclear sentences
+    
+- overly complex phrasing

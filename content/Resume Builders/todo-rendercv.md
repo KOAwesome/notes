@@ -1,7 +1,47 @@
 https://www.linkedin.com/posts/josesilesdata_i-used-to-spend-a-lot-of-time-adjusting-my-activity-7410960201626996736-uLab?utm_source=share&utm_medium=member_desktop&rcm=ACoAADme3p8BWs6StE8O0ClexFkQYfpKLRmS56g
 
 
+Critical Deal Breakers
+1. Timeline inconsistencies with f uture project dates raise credibility concerns
+Red Flags Detected
+2. Future project dates10512025, 0412025) suggest timeline inconsistencies
+3. Limited quantified business impact despite working with financial datasets
+4. Vague descriptions of 'large-scale' without specific metrics
+Critical Gaps Identified
+Lack of quantif led business impact metrics (cost savings, performance
+improvements)
+5. Missing production system ownership and end-to-end responsibility
+6. Limited evidence of cross-functional collaboration and stakeholder management
 
+
+Next Level Requirements
+Improvement Action Plan
+Skills
+Add specific performance metrics for Spark optimizations {beforelafter
+processing times)
+Include data volume metrics (TB processed, recordslsecond throughput}
+Demonstrate Kafka or real-time streaming experience for FAANG readiness
+Experience
+Lead a complete data pipeline from requirements gathering to production
+deployment
+Take ownership of data quality SLAS and incident response
+Collaborate directly with business stakeholders on requirements
+Projects
+Build a real-time streaming pipeline with measurable latency improvements
+Implement cost optimization project with documented savings
+Create open-source data engineering tool or contribute to existing projects
+Metrics
+Processing time improvements IX hours to Y minutes)
+Cost savings achieved through optimization
+Data quality improvement percentages
+STAR Format Examples
+1. Built metadata-driven Data Quality framework that reduced data validation time from
+4 hours to 15 minutes, processing 500GB daily across 20+ financial datasets with
+99.5 /0 accuracy
+2. Optimized Spark jobs through partition tuning and column pruning, improving
+processing speed by 60 % and reducing AWS compute costs by $2,OOOlmonth
+3. Designed ETL pipelines consolidating 20+ datasets into unified analytics tables,
+enabling business analysts to generate reports 3x faster
 ## **SAI RAHUL NALLANDHIGHAL**
 
   
@@ -53,6 +93,15 @@ Data Engineer with **1.5+ years of experience** designing **metadata-driven data
 - Implemented **structured failure handling and error reporting**, generating Step Functions–friendly summaries and detailed CSV reports in S3.
     
 - Maintained production codebases in **Bitbucket** with environment-specific configurations.
+- Implemented data validation pipelines using a centralized DQ framework, enabling rule-based validation for multiple datasets with configurable execution and output handling
+
+- Extended validation framework to support cross-column, multi-column, and special-value rules, improving data quality coverage and flexibility
+
+- Strengthened error handling and validation execution paths, ensuring robust handling of edge cases and consistent failure outputs
+
+- Designed and maintained rule-configuration mappings for multiple dataset types (Limited and Non-Limited), enabling scalable and reusable validation logic
+
+- Developed unit tests and validated end-to-end rule execution flows, ensuring correctness of validation logic and seamless integration with pipeline workflows
     
 
 ---
@@ -255,3 +304,6 @@ Below is how you **answer confidently**, without rambling.
 > I’ve already worked on production pipelines where correctness matters as much as scale. I’m comfortable owning Spark transformations end to end — from data quality enforcement to complex business logic and performance optimization.
 
 ---
+
+why we have different pipelines for same flow?
+in aws glue it doesnt cost much even if we have different pipelines, having them helps in easy monitoring

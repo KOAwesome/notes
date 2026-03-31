@@ -1,7 +1,7 @@
 
 | # Minimum Window Substring | i have to reduce match count only when target count is greater than source count. `if (tcount.containsKey(st) && scount.get(st) < tcount.get(st)){<br><br>match--;<br><br>}` |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Max sum subarray**       | considering only when sums greater than target                                                                                                                               |
+| **minimum size subarray**  | considering only when sums greater than target                                                                                                                               |
 |                            |                                                                                                                                                                              |
 |                            |                                                                                                                                                                              |
 ### **Sliding Window Problems**

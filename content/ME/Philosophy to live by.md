@@ -1,3 +1,16 @@
+## **What “holding frame” means**
+I respond only when it adds value
+
+- Not over-explaining
+    
+- Not panicking when escalated
+    
+- Not agreeing just to calm
+    
+- Not chasing when pushed away
+    
+- Responding calmly, not reactively
+
 The moment you accept boredom without reaching for _anything_ — **all scrolling collapses together**.
 
 > 	Feel → contain → choose → express
