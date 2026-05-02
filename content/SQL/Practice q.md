@@ -112,3 +112,5 @@
 	    
 	- Data quality checks
 
+Distinct vs group by which is efficieint?
+both are equally efficient it is just readability preference 

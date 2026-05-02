@@ -46,3 +46,30 @@
 7. How to find server memory?  
 8. How do you debug high CPU or memory issues in the JVM?  
 9. How do you capture heap/thread dumps?
+
+JPMC
+- How do you add a docker image to EMR cluster?
+    
+- We have to process 50 CSV files and jobs may get failed after (let's 20 files), don't want to run from already processed files, how do handle this?
+    
+- Airflow Operators used in my project.
+    
+- An airflow task runs every 15 mins and some times it may take longer than 15 mins to complete, how do you handle this?
+    
+- String reversal, valid email id, missing number in a list.
+    
+- Difference between and copy and deep copy
+    
+- How do you decide whether to run a job on EC2 or Serverless? explain in detail
+    
+- Spark Architecture
+    
+- What is DAG? Difference between DAG and Lineage
+    
+- Explain how spark is fault tolerant?
+    
+- Given a user_df and events_df, find the active users who have logged in in last 30 days for 3 consecutive days.
+    
+- Various scenarios of joins, when to use what
+    
+- Production issues encountered in my current job and how did I debug and resolved.
